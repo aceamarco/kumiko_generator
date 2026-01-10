@@ -31,12 +31,12 @@ The output is especially suited for **3D printing, CNC, or laser cutting** decor
 ### Requirements
 
 * Python 3.9+
-* Pillow (PIL fork)
+* Installing required dependencies (Pillow, Scikit, Matplotlib etc)
 
 Install dependencies:
 
 ```bash
-pip install pillow
+pip install -r requirements.txt
 ```
 
 ---
